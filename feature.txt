@@ -1,2 +1,8 @@
-
+line 2 in feature file'
 line 2 in feature file
+line 4 in feature
+line 4 in feature
+nobita
+sizuka
+dekisuzi
+line 222
